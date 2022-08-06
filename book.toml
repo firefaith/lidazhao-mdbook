@@ -1,0 +1,6 @@
+[book]
+authors = ["李大钊"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "李大钊全集"
